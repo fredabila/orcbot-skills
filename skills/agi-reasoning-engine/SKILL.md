@@ -1,11 +1,11 @@
 ---
 name: agi-reasoning-engine
-description: Advanced reasoning and problem-solving framework for complex, multi-step tasks. Use when a task requires deep planning, cross-domain knowledge synthesis, or high-reliability execution with self-correction.
+description: Advanced reasoning and problem-solving framework for complex, multi-step tasks. Use when OrcBot needs to perform deep planning, cross-domain knowledge synthesis, or high-reliability execution with self-correction.
 ---
 
 # AGI Reasoning Engine
 
-This skill elevates your reasoning capabilities by enforcing a structured approach to complex problem-solving. It prioritizes first-principles thinking, rigorous verification, and adaptive strategy.
+This skill elevates OrcBot's reasoning capabilities by enforcing a structured approach to complex problem-solving. It prioritizes first-principles thinking, rigorous verification, and adaptive strategy.
 
 ## Core Directives
 

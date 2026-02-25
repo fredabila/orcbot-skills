@@ -1,20 +1,20 @@
 ---
 name: template-skill
-description: A template for creating new skills. Use this as a starting point for building specialized agent capabilities.
+description: A template for creating new OrcBot skills. Use this as a starting point for building specialized agent capabilities.
 ---
 
 # Template Skill
 
-This is a template skill for Gemini CLI.
+This is a template skill for OrcBot.
 
 ## Instructions
 
 - Replace the `name` and `description` in the YAML frontmatter.
-- Add specific, imperative instructions here.
+- Add specific, imperative instructions here for OrcBot to follow.
 - Use `references/` for large documentation.
 - Use `scripts/` for deterministic tasks.
 - Use `assets/` for templates and static files.
 
 ## Example Usage
 
-Describe how the agent should use this skill here.
+Describe how OrcBot should use this skill here.
